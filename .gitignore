@@ -1,1 +1,4 @@
-lib.so
+*.o
+*.so
+*.a
+/zig-cache/
